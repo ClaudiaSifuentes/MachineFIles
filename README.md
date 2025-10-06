@@ -1,3 +1,7 @@
+
+---
+
+```markdown
 # 🪙 Meme Crypto Time Series Analysis
 
 Este proyecto construye un pipeline completo para la recolección, limpieza y análisis de criptomonedas categorizadas como *memecoins*.  
@@ -83,7 +87,16 @@ Abre y corre `eda.ipynb` para visualizar patrones, tendencias y estadísticas de
 * Análisis de volatilidad en el mercado *meme*.
 * Dashboard financiero con Power BI o Streamlit.
 
+---
 
+## 👩‍💻 Autor
 
-¿Deseas que te agregue al final una sección opcional con **gráficos EDA automáticos** (por ejemplo, correlación y tendencia promedio)? Puedo generarte ese bloque de código para el `eda.ipynb`.
+**Claudia Sifuentes**
+Proyecto de Programación Concurrente y Análisis de Datos
+UPC – 2025-1
+
+```
+
+---
+
 ```
