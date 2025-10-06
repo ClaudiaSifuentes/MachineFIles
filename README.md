@@ -86,11 +86,7 @@ Abre y corre `eda.ipynb` para visualizar patrones, tendencias y estadísticas de
 
 ---
 
-## 👩‍💻 Autor
 
-**Claudia Sifuentes**
-Proyecto de Programación Concurrente y Análisis de Datos
-UPC – 2025-1
 
 ```
 
