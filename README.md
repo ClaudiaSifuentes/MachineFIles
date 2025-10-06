@@ -88,7 +88,4 @@ Abre y corre `eda.ipynb` para visualizar patrones, tendencias y estadísticas de
 
 
 
-```
-
-
 
