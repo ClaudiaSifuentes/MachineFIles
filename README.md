@@ -1,7 +1,4 @@
 
----
-
-```markdown
 # 🪙 Meme Crypto Time Series Analysis
 
 Este proyecto construye un pipeline completo para la recolección, limpieza y análisis de criptomonedas categorizadas como *memecoins*.  
@@ -30,7 +27,7 @@ memecoins.csv            # Dataset inicial
 - Dependencias principales:
   ```bash
   pip install requests flatten_json pandas matplotlib
-````
+  ````
 
 * APIs necesarias:
 
@@ -97,6 +94,5 @@ UPC – 2025-1
 
 ```
 
----
 
-```
+
